@@ -3,7 +3,8 @@ file_in = open("names.txt","r")
 
 data = file_in.readlines()
 print data
-"""for line in data:
+"""
+for line in data:
     print line
 print file_in
 data = file_in.read(10)
