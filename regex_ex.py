@@ -17,3 +17,7 @@ if re.search("\d{10}",x):
     print "The string found"
 else:
     print "The string not found"
+
+
+def test:
+    pass
